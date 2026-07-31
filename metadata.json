@@ -1,0 +1,6 @@
+{
+  "name": "San Diego HVAC Experts",
+  "description": "San Diego HVAC Experts - Premium, SEO-optimized local HVAC services in San Diego, CA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

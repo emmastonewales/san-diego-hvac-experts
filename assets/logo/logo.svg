@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="300" height="80">
+  <defs>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#0369A1" />
+    </linearGradient>
+    <linearGradient id="amberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Icon Mark -->
+  <rect x="10" y="15" width="50" height="50" rx="12" fill="url(#blueGrad)" />
+  <!-- Flame/Cooling dual wave icon -->
+  <path d="M35 23 C 30 30, 22 32, 25 43 C 27 49, 33 53, 38 50 C 43 47, 46 38, 35 23 Z" fill="url(#amberGrad)" />
+  <path d="M28 35 C 32 37, 36 33, 38 38 C 39 42, 35 46, 31 45 C 27 44, 25 39, 28 35 Z" fill="#FFFFFF" opacity="0.9" />
+  <path d="M35 28 D 42 28, 45 35, 38 42" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" />
+
+  <!-- Text Mark -->
+  <text x="72" y="40" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="20" fill="#0F172A" letter-spacing="-0.5">SAN DIEGO</text>
+  <text x="72" y="58" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="16" fill="#0284C7" letter-spacing="1.5">HVAC EXPERTS</text>
+</svg>

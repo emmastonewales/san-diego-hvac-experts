@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core Site Pages -->
+  <url>
+    <loc>https://sandiegohvacexperts.homes/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://sandiegohvacexperts.homes/about.html</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sandiegohvacexperts.homes/contact.html</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sandiegohvacexperts.homes/privacy-policy.html</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://sandiegohvacexperts.homes/terms-and-conditions.html</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://sandiegohvacexperts.homes/sitemap.html</loc>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Services Pages (30) -->
+  <url><loc>https://sandiegohvacexperts.homes/services/ac-repair.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/ac-installation.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/ac-replacement.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/ac-maintenance.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/emergency-ac-repair.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/heating-repair.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/heating-installation.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/heating-replacement.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/furnace-repair.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/furnace-installation.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/furnace-replacement.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/heat-pump-repair.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/heat-pump-installation.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/heat-pump-replacement.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/mini-split-repair.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/mini-split-installation.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/ductwork-installation.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/duct-repair.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/air-duct-cleaning.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/indoor-air-quality.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/thermostat-installation.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/smart-thermostat-installation.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/residential-hvac.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/commercial-hvac.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/hvac-maintenance.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/hvac-tune-up.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/hvac-inspection.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/hvac-repair.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/hvac-replacement.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/services/emergency-hvac-service.html</loc><priority>0.9</priority></url>
+
+  <!-- Service Areas (11) -->
+  <url><loc>https://sandiegohvacexperts.homes/service-areas/san-diego.html</loc><priority>0.9</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/service-areas/la-mesa.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/service-areas/carlsbad.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/service-areas/el-cajon.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/service-areas/la-jolla.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/service-areas/poway.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/service-areas/santee.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/service-areas/los-alamitos.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/service-areas/rosemead.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/service-areas/irvine.html</loc><priority>0.8</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/service-areas/capistrano-beach.html</loc><priority>0.8</priority></url>
+
+  <!-- Blog Posts -->
+  <url><loc>https://sandiegohvacexperts.homes/blog/how-often-should-you-service-your-ac-in-san-diego.html</loc><priority>0.7</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/blog/heat-pump-vs-traditional-furnace-san-diego-guide.html</loc><priority>0.7</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/blog/signs-your-air-conditioner-needs-immediate-repair.html</loc><priority>0.7</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/blog/how-to-lower-hvac-energy-bills-in-southern-california.html</loc><priority>0.7</priority></url>
+  <url><loc>https://sandiegohvacexperts.homes/blog/air-duct-cleaning-benefits-for-indoor-air-quality.html</loc><priority>0.7</priority></url>
+</urlset>
